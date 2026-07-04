@@ -14,7 +14,7 @@ The model trains on the Mosquito Dataset for Classification, featuring labeled i
 
 Below is a look at the target mosquito species analyzed in this project:
 
-![Mosquito Species](mosquitos.png)
+![Mosquito Species](mosquito.png)
 
 The notebook automatically handles downloading and extracting the source files via Zenodo.
 
